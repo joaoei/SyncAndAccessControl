@@ -27,7 +27,7 @@ sem_t troca_sexo;
 sem_t homem;
 sem_t mulher;
 sem_t homem_qtd;
-sem_t mulherr_qtd;
+sem_t mulher_qtd;
 
 //Contadores de quantidade de pessoas
 int contador_mulher = 0;
