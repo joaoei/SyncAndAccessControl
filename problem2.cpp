@@ -1,6 +1,6 @@
 /**
- * Compilar: g++ problem2.cpp -o problem2 -Wall -lpthread
- * Executar: ./problem2 
+ * Compilar: g++ problem2.cpp -o pro2 -Wall -lpthread -std=c++11
+ * Executar: ./pro2
  */
 
 #include <iostream> // cout
